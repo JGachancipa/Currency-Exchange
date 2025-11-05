@@ -1,33 +1,28 @@
-# Currency Exchange
+# Currency Exchange - Consola en Java
 
 ## Descripción
-Currency Exchange es una aplicación que permite convertir montos entre distintas monedas utilizando tasas de cambio actualizadas. La aplicación puede funcionar como API o como aplicación de escritorio/web según la implementación.
-
-Este proyecto está diseñado para aprender y practicar conceptos de desarrollo de software, manejo de APIs, y buenas prácticas de programación.
+Currency Exchange es un programa simple en Java que permite convertir montos entre diferentes monedas desde la consola. Ideal para aprender a trabajar con entrada/salida, estructuras de control y operaciones básicas en Java.
 
 ---
 
 ## Características
 
-- Conversión de monedas en tiempo real.
-- Soporte para múltiples monedas (USD, EUR, COP, GBP, etc.).
-- Interfaz intuitiva para el usuario.
-- Posibilidad de integrarse con APIs externas de tasas de cambio.
-- Validación de entradas del usuario.
+- Conversión entre monedas comunes (USD, EUR, COP, GBP, etc.).
+- Funciona totalmente desde la consola.
+- Interfaz simple y fácil de usar.
+- Validación básica de la entrada del usuario.
 
 ---
 
 ## Tecnologías
 
-- **Lenguaje:** Python / JavaScript / Java (dependiendo de la implementación)
-- **Frameworks:** Flask, React, Node.js, Spring Boot (según tu implementación)
-- **API:** [Fixer.io](https://fixer.io) o cualquier proveedor de tasas de cambio.
-- **Gestión de versiones:** Git
-- **Repositorio remoto:** GitHub
+- **Lenguaje:** Java
+- **Entorno de ejecución:** Consola / Terminal
+- **IDE recomendado:** IntelliJ.
 
 ---
 
-## Instalación
+## Instalación y ejecución
 
 1. Clona el repositorio:
 ```bash
